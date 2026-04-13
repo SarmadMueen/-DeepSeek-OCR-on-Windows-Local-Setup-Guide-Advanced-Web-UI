@@ -22,7 +22,7 @@ Running the official repo on Windows will likely produce these errors:
 ## 🛠️ Prerequisites
 
 - Windows 10 / 11
-- NVIDIA GPU (**10 GB+ VRAM recommended**)
+- NVIDIA GPU
 - [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed
 - [Git](https://git-scm.com/) installed
 
