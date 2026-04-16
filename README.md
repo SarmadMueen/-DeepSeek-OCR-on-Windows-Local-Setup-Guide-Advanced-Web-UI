@@ -56,12 +56,10 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https
 pip install -r requirements.txt
 pip install transformers timm accelerate einops
 ```
-
 ### Step 5 — Install Web UI Dependencies
 
 ```bash
-pip install gradio pymupdf python-docx markdown
-```
+pip install gradio pymupdf python-docx markdown pypandoc
 
 ---
 
